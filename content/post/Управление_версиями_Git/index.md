@@ -1,7 +1,7 @@
 ---
-title: Blog with Jupyter Notebooks!
+title: Управление версиями. Git
 date: '2023-11-04'
-summary: Easily blog from Jupyter notebooks!
+summary: Git — это система коммитов
 ---
 
 
