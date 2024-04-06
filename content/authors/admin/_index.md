@@ -10,7 +10,7 @@ first_name:
 last_name: 
 
 # Status emoji
-status: don't disturb, playing dress to impress
+status: 
   icon: 💋
 
 # Is this the primary user of the site?
@@ -25,7 +25,7 @@ organizations:
     url: https://www.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: don't disturb, playing dress to impress
 
 # Interests to show in About widget
 interests:

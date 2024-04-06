@@ -80,7 +80,7 @@ sections:
           company_url: ''
           company_logo: org-x
           location: Eternity
-          date_start: '2005-02-024'
+          date_start: '2005-02-24'
           date_end: ''
           description: I am a daughter of a Sherlock Holmes (Mentally)
     design:
