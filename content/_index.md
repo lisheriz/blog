@@ -62,27 +62,14 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Glomaurista
-          company: Roblox
+        - title: Fashion maven
+          company: Dress to impress
           company_url: ''
-          company_logo: org-gc
-          location: Internet
+          company_logo: logo
+          location: Roblox
           date_start: '2005-02-02'
           date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * The Most
-              * Stylish
-              * Humanbeing
-        - title: Detective
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: Eternity
-          date_start: '2005-02-24'
-          date_end: ''
-          description: I am a daughter of a Sherlock Holmes (Mentally)
+          description:
     design:
       columns: '2'
   - block: accomplishments
@@ -98,24 +85,24 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url:
           date_end: ''
-          date_start: '2021-09-01'
+          date_start: '2022-09-01'
           description: ''
-          icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Талант НТО "Машинное обучение"
-          url: ''
-        - certificate_url: https://www.edx.org
+          icon: trophy
+          organization: НТО
+          organization_url:
+          title: НТО "Искусственный интеллект"
+          url:
+        - certificate_url:
           date_end: ''
           date_start: '2022-09-01'
           description: 
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Талант НТО "Программирование на Python"
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+          icon: python
+          organization: НТО
+          organization_url:
+          title: НТО "Программирование на Python"
+          url:
     design:
       columns: '2'
   - block: collection
@@ -162,24 +149,12 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: markdown
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
   - block: collection
     id: featured
     content:
@@ -226,39 +201,14 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        U can write me something ^~^ 
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
-      address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      # Choose a map provider in `params.yaml` to show a map from these coordinates
-      coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'  
+      email: 1132236051@rudn.ru
       contact_links:
-        - icon: twitter
+        - icon: youtube
           icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/Twitter'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
+          name: YouTube
+          link: 'https://www.youtube.com/@lisheriz'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider

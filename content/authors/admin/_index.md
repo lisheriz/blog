@@ -34,8 +34,7 @@ interests:
   - Music
   - Art
   - Languages
-  - Gamedev
-  - And many others
+  - Gamedev and many others
 
 # Education to show in About widget
 education:
@@ -91,30 +90,31 @@ skills:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
+  - icon: book-atlas
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+    link: https://www.elibrary.ru/defaultx.asp
+  - icon: google-scholar
+    icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: orcid
+    icon_pack: fab
+    link: https://orcid.org/0009-0009-8724-1547
+  - icon: mendeley
+    icon_pack: fab
+    link: https://www.mendeley.com/?interaction_required=true
+  - icon: researchgate
+    icon_pack: fab
+    link: https://www.researchgate.net/
+  - icon: building-columns
+    icon_pack: fas
+    link: https://independent.academia.edu/ElisabethPostnova
+  - icon: xing
+    icon_pack: fab
+    link: https://arxiv.org/
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+    link: https://github.com/lisheriz
+    
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -122,6 +122,6 @@ highlight_name: true
 
 It's snowing on May 7th while I'm typing this at 4 AM
 
-So i let my past go as those snowflakes do
+So i let my past go as those snowflakes melting on the ground
 
 {style="text-align: justify;"}
