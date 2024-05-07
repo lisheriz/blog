@@ -3,7 +3,7 @@
 title: Lisa Cat
 
 # Name pronunciation (optional)
-name_pronunciation: злись катенок больше стреса. fuck you милый, я пренцеса :*
+name_pronunciation:
 
 # Full name (for SEO)
 first_name: 
@@ -30,12 +30,12 @@ bio: don't disturb, playing dress to impress
 # Interests to show in About widget
 interests:
   - Fashion
-  - Detectives
+  - Psychology
   - Music
   - Art
   - Languages
-  - Video Games
-  - Visual novels and etc.
+  - Gamedev
+  - And many others
 
 # Education to show in About widget
 education:
@@ -43,49 +43,48 @@ education:
     - course: High School
       institution: Some school
       year: 2023
-    - course: Курсы мошенничества
-      institution: Московский Роддом №1
-      year: 2005
+    - course: Computer science and mathematics
+      institution: People Frienship University of Russia
+      year:
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
   - name: Technical
+    color: '#DAE5DB'
+    color_border: '#DAE5DB'
     items:
       - name: Python
         description: ''
-        percent: 30
         icon: python
         icon_pack: fab
       - name: Data Science
         description: ''
-        percent: 10
         icon: chart-line
         icon_pack: fas
+      - name: C++
+        description: ''
+        icon: terminal
+        icon_pack: fas
   - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
+    color: '#DAE5DB'
+    color_border: '#DAE5DB'
     items:
-      - name: Writing
+      - name: Poem and prose writing
         description: ''
         percent: 80
-        icon: ✍️
-        icon_pack: emoji
+        icon: signature
+        icon_pack: fas
       - name: Painting
         description: ''
-        percent: 100
-        icon: ️🎨
-        icon_pack: emoji
+        percent: 80
+        icon: palette
+        icon_pack: fas
       - name: Photography
         description: ''
         percent: 80
-        icon: 🎞️
-        icon_pack: emoji
-      - name: Music writing
-        description: ''
-        percent: 80
-        icon: 🎙️
-        icon_pack: emoji
+        icon: photo-film
+        icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -121,5 +120,8 @@ social:
 highlight_name: true
 ---
 
-А так вам всё и расскажи
+It's snowing on May 7th while I'm typing this at 4 AM
+
+So i let my past go as those snowflakes do
+
 {style="text-align: justify;"}

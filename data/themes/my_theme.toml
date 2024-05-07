@@ -1,0 +1,17 @@
+# Theme metadata
+name = "my_theme"
+
+[light]
+  # Primary
+  primary = "#78A17E"
+
+  # Menu
+  menu_primary = "#8CAF91"
+  menu_text = "#253527"
+  menu_text_active = "#253527"
+  menu_title = "#EFF4F0"
+
+  # Backgrounds
+  background = "#CCDBCE"
+  home_section_odd = "#CCDBCE"
+  home_section_even = "#DAE5DB"

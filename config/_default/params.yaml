@@ -6,10 +6,9 @@
 # Appearance
 
 appearance:
-  theme_default: light
-  color: green
-  font: custom
-  font_size: L
+  theme_day: my_theme
+  font: classic
+  font_size: l
 
 # SEO
 
