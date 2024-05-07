@@ -65,7 +65,7 @@ sections:
         - title: Fashion maven
           company: Dress to impress
           company_url: ''
-          company_logo: logo
+          company_logo: cat
           location: Roblox
           date_start: '2005-02-02'
           date_end: ''
@@ -89,7 +89,7 @@ sections:
           date_end: ''
           date_start: '2022-09-01'
           description: ''
-          icon: trophy
+          icon: ai
           organization: НТО
           organization_url:
           title: НТО "Искусственный интеллект"
@@ -98,7 +98,7 @@ sections:
           date_end: ''
           date_start: '2022-09-01'
           description: 
-          icon: python
+          icon: snake
           organization: НТО
           organization_url:
           title: НТО "Программирование на Python"
